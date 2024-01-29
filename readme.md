@@ -31,4 +31,6 @@ For estimate D, please use (esti old D) for model outsides folder "re" and use (
 5. For extra1 and extra2, the purpose are same for extra1/2 in python code. Please run 1 and run statetr.m before running e1.m and e2.m. To run e1.m, please first load tranp first and then run e1.m.
 To run e2.m, please first load two linep in linep2_1.mat and linep2_2.mat and make linep to be the sum of them.
 
+6. To get the state transistion probability, run extra/statetr.m
+
 Update：figures are disordered, thus comment in the code may not match the figure in paper.
