@@ -34,3 +34,5 @@ To run e2.m, please first load two linep in linep2_1.mat and linep2_2.mat and ma
 6. To get the state transistion probability, run extra/statetr.m
 
 Update：figures are disordered, thus comment in the code may not match the figure in paper.
+
+Update: codes are rewrite in Celegans-reconstruct.ipynb and ladnscape.m. Please read our protocol for details.
